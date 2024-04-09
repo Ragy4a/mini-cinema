@@ -1,0 +1,33 @@
+.info {
+    display: flex;
+}
+
+main {
+    margin-top: 50px; 
+    padding: 20px; 
+    text-align: center; 
+  }
+  
+  .info {
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+    margin-top: 20px; 
+  }
+  
+  .img-container {
+    margin-right: 20px; 
+  }
+  
+  .text-content {
+    max-width: 600px; 
+    text-align: left; 
+  }
+
+  main p {
+    color: rgb(16, 173, 121);
+  }
+  
+  main span {
+    color: rgb(17, 184, 53);
+  }

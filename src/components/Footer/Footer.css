@@ -1,0 +1,17 @@
+footer {
+    width: 40dvw;
+    display: flex;
+    flex-direction: column;
+    padding: 20px; 
+    background-color: #333; 
+    color: white; 
+    margin-top: 30px; 
+  }
+  
+  footer p {
+    margin: 0; 
+  }
+  
+  footer span {
+    color: aquamarine;
+  }
